@@ -235,13 +235,13 @@ body {
 .principalMobile img {
     display: block;
     border: none;
-    height: 200px;
-    width: 200px;
+    height: 130px;
+    width: 130px;
     margin-bottom: 160px;
 }
 
 .principalMobile h1 {
-    font-size: 45px;
+    font-size: 40px;
 }
 
 .principalMobile h1 span {
