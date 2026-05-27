@@ -217,8 +217,8 @@ body {
     }
 
 .home img {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin: 90px auto 20px auto;
 }
 
@@ -241,7 +241,7 @@ body {
 }
 
 .principalMobile h1 {
-    font-size: 60px;
+    font-size: 45px;
 }
 
 .principalMobile h1 span {
