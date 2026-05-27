@@ -217,8 +217,8 @@ body {
     }
 
 .home img {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     margin: 90px auto 20px auto;
 }
 
@@ -229,19 +229,19 @@ body {
 .principalMobile {
     display: block;
     margin-left: 0;
-    line-height: 50px; 
+    line-height: 100px; 
     }
 
 .principalMobile img {
     display: block;
     border: none;
-    height: 0px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     margin-bottom: 160px;
 }
 
 .principalMobile h1 {
-    font-size: 30px;
+    font-size: 60px;
 }
 
 .principalMobile h1 span {
